@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1688738273270,
+  "timestamp": 1688738584910,
   "index": "/currency-deploy/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/currency-deploy/favicon.ico",
         "/currency-deploy/index.html",
-        "/currency-deploy/main.0348341ef107f844.js",
+        "/currency-deploy/main.4bb1f05a85e90fb5.js",
         "/currency-deploy/polyfills.cbd5be520e0836e5.js",
         "/currency-deploy/runtime.072bfffbb447d17d.js",
-        "/currency-deploy/styles.20b42869b179f200.css"
+        "/currency-deploy/styles.8ad50c0c254eddab.css"
       ],
       "patterns": []
     },
@@ -34,11 +34,11 @@
   "dataGroups": [],
   "hashTable": {
     "/currency-deploy/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/currency-deploy/index.html": "098ac0361f1659af37eafe4bb24628ee38fcdaac",
-    "/currency-deploy/main.0348341ef107f844.js": "47ba3b7b24a1e1e075804623313c293c1ab2fffc",
+    "/currency-deploy/index.html": "d9d313bb9ba76bb8b10d7679d52637d2dcc527d4",
+    "/currency-deploy/main.4bb1f05a85e90fb5.js": "caf801f7627271ee37858a40c3d865f527f2dc96",
     "/currency-deploy/polyfills.cbd5be520e0836e5.js": "43acb48f2c20b00b81c3f9e6365484bbbf22aa38",
     "/currency-deploy/runtime.072bfffbb447d17d.js": "db1892f33ea3c4e13a639c845719f7a07493e7ab",
-    "/currency-deploy/styles.20b42869b179f200.css": "d85925ef591e8b56d7bf2aeb7078b3cc5079130e"
+    "/currency-deploy/styles.8ad50c0c254eddab.css": "6cfe55819cef2fa29f8fa59d21b8451232db6bc4"
   },
   "navigationUrls": [
     {
