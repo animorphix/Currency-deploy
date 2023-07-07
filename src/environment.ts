@@ -3,7 +3,7 @@ export const environment = {
     source: 'RUB',
     currencies: ['USD', 'EUR', 'GBP', 'CNY', 'JPY', 'TRY'],
   
-    API_KEY:  'PmCLpxqNLflJzC2JKBCauFNaAD1Liud4',
+    API_KEY:  '6uKpZlswZ7hQ7HsFk0khiJaAkvUoCbGp',
   
     get API_URL(): string {
       const source = encodeURIComponent(this.source)
