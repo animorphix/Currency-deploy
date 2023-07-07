@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1688737664415,
+  "timestamp": 1688738273270,
   "index": "/currency-deploy/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,10 @@
       "urls": [
         "/currency-deploy/favicon.ico",
         "/currency-deploy/index.html",
-        "/currency-deploy/main.df2c324e204285d7.js",
-        "/currency-deploy/manifest.webmanifest",
+        "/currency-deploy/main.0348341ef107f844.js",
         "/currency-deploy/polyfills.cbd5be520e0836e5.js",
         "/currency-deploy/runtime.072bfffbb447d17d.js",
-        "/currency-deploy/styles.ef46db3751d8e999.css"
+        "/currency-deploy/styles.20b42869b179f200.css"
       ],
       "patterns": []
     },
@@ -28,36 +27,18 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "/currency-deploy/assets/icons/icon-128x128.png",
-        "/currency-deploy/assets/icons/icon-144x144.png",
-        "/currency-deploy/assets/icons/icon-152x152.png",
-        "/currency-deploy/assets/icons/icon-192x192.png",
-        "/currency-deploy/assets/icons/icon-384x384.png",
-        "/currency-deploy/assets/icons/icon-512x512.png",
-        "/currency-deploy/assets/icons/icon-72x72.png",
-        "/currency-deploy/assets/icons/icon-96x96.png"
-      ],
+      "urls": [],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/currency-deploy/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/currency-deploy/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/currency-deploy/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/currency-deploy/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/currency-deploy/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/currency-deploy/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/currency-deploy/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/currency-deploy/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/currency-deploy/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/currency-deploy/index.html": "66a0b7f7aa830932c60bd681b96bff4a2e52fc83",
-    "/currency-deploy/main.df2c324e204285d7.js": "4c54c338ffe18446c0d2694c96d20cf3fb383398",
-    "/currency-deploy/manifest.webmanifest": "060ae0881fcded179e6955412a575e878c20e872",
+    "/currency-deploy/index.html": "098ac0361f1659af37eafe4bb24628ee38fcdaac",
+    "/currency-deploy/main.0348341ef107f844.js": "47ba3b7b24a1e1e075804623313c293c1ab2fffc",
     "/currency-deploy/polyfills.cbd5be520e0836e5.js": "43acb48f2c20b00b81c3f9e6365484bbbf22aa38",
     "/currency-deploy/runtime.072bfffbb447d17d.js": "db1892f33ea3c4e13a639c845719f7a07493e7ab",
-    "/currency-deploy/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/currency-deploy/styles.20b42869b179f200.css": "d85925ef591e8b56d7bf2aeb7078b3cc5079130e"
   },
   "navigationUrls": [
     {

@@ -7,7 +7,7 @@ MIT
 @angular/platform-browser
 MIT
 
-@angular/service-worker
+@angular/router
 MIT
 
 rxjs
