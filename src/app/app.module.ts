@@ -19,3 +19,19 @@ import { HttpClientModule } from '@angular/common/http';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+export class YaMetrikaModule {
+  private ym;
+  constructor(
+    private router: Router,
+    private location: Location,
+    @Inject(PLATFORM_ID) private _platformId: Object
+  ) {
+    if ( ! isPlatformBrowser(this._platformId)) return;
+    this.ym = window.ym;
+    this.router.events.filter(event => (event instanceof NavigationEnd))
+        .subscribe(() => {
+            let url = this.location.path();
+            this.ym(97439730, 'hit', url);
+        });
+  }
+}
